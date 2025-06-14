@@ -1,0 +1,20 @@
+Voici un fichier `index.php` simple que tu peux utiliser pour tester ton site :
+
+---
+
+*Nom du fichier* : `index.php`
+
+*Contenu* :
+
+```php
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alliz Shop</title>
+</head>
+<body>
+    <h1>Bienvenue sur Alliz Shop</h1>
+    <p>Votre boutique en ligne est opérationnelle !</p>
+</body>
+</html>
+``'
